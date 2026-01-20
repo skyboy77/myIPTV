@@ -1,10 +1,10 @@
 [
   {
     "name": "[荐] 豆瓣",
-    "version": 3,
+    "version": 4,
     "remark": "🍃豆儿出品，不属精品！",
     "webSite": "https://movie.douban.com",
-    "codeID": "SiU95hHc6tmlpYMzdZ8CgCi6izNKs2dT",
+    "codeID": "4r9lCCTjjoqI5sGDkzho2sNKSL2BQXpc",
     "order": "A00",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Jian_douban2.txt",
     "type": 101
@@ -15,11 +15,12 @@
     "webSite": "http://wogg.xxooo.cf",
     "order": "A01",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_wogg.js",
-    "type": 101
+    "type": 101,
+    "logo": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/logo/wanou.png"
   },
   {
     "name": "[盘] 木偶",
-    "version": 5,
+    "version": 6,
     "webSite": "https://666.666291.xyz",
     "order": "A02",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_mogg.js",
@@ -31,7 +32,8 @@
     "webSite": "http://feimao888.fun",
     "order": "A03",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_labipan.js",
-    "type": 101
+    "type": 101,
+    "logo": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/logo/labi.png"
   },
   {
     "name": "[盘] 虎斑",
@@ -84,23 +86,23 @@
     "type": 101
   },
   {
-    "name": "[盘] 茉莉",
-    "version": 2,
-    "remark": "🍃豆儿出品，不属精品！支持在线播放和网盘",
-    "webSite": "https://www.hdmoli.pro/",
-    "codeID": "OAxUOePWsN3I7NQfNIO9Il1I1cgolbSa",
+    "name": "[盘] 盘Ta",
+    "version": 1,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://www.91panta.cn/",
+    "codeID": "fYX7prspKVl5o8VMImJQllzG3NHeBdpp",
     "order": "A12",
-    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_HDmoli.txt",
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_panta.txt",
     "type": 101
   },
   {
-    "name": "[盘] 雷鲸²",
-    "version": 1,
+    "name": "[盘] 雷鲸",
+    "version": 2,
     "remark": "🍃豆儿出品，不属精品！",
     "webSite": "https://www.leijing.xyz/",
-    "codeID": "mQuJDktDs81PNT2i0XJ2Udvo1u9xrkA6",
+    "codeID": "uhSLOEbw9TJY0Zqelm0DK3eauG5UxFf8",
     "order": "A13",
-    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_leijing2.txt",
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_leijing.txt",
     "type": 101
   },
   {
@@ -138,17 +140,18 @@
     "version": 11,
     "remark": "格式 频道名称1@频道id1&频道名称2@频道id2",
     "env": "TG搜代理地址##默认直接访问 https://t.me/s/ 有自己的代理服务填入即可，没有不用改动。",
-    "webSite": "123资源@zyfb123&天翼日更@tianyirigeng&天翼臻影@tyysypzypd&百度@bdwpzhpd&移动@ydypzyfx&夸克百度@Aliyun_4K_Movies&夸克UC@ucquark&夸克电影@Q_dianying&夸克剧集@Q_dianshiju&夸克动漫@Q_dongman",
+    "webSite": "豆儿盘@douerpan&豆儿123@zyfb123&天翼日更@tianyirigeng&天翼臻影@tyysypzypd&百度@bdwpzhpd&夸克百度@Aliyun_4K_Movies&夸克UC@ucquark&夸克电影@Q_dianying&夸克剧集@Q_dianshiju&夸克动漫@Q_dongman",
     "order": "A17",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_tgs.js",
-    "type": 101
+    "type": 101,
+    "logo": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/logo/tg.png"
   },
   {
     "name": "[盘] TG搜²",
     "version": 9,
     "remark": "🍃豆儿出品，不属精品！免代理纯搜索，格式 频道名称@频道id|搜索数量&频道名称@频道id，支持自定义每频道搜索数量，默认3个",
     "env": "TG搜API地址##https://tgsou.252035.xyz",
-    "webSite": "123资源@zyfb123&天翼日更@tianyirigeng&天翼臻影@tyysypzypd&百度@bdwpzhpd&移动@ydypzyfx&夸克百度@Aliyun_4K_Movies&夸克UC@ucquark&夸克电影@Q_dianying&夸克剧集@Q_dianshiju&夸克动漫@Q_dongman",
+    "webSite": "豆儿盘@douerpan&豆儿123@zyfb123&天翼日更@tianyirigeng&天翼臻影@tyysypzypd&百度@bdwpzhpd&夸克百度@Aliyun_4K_Movies&夸克UC@ucquark&夸克电影@Q_dianying&夸克剧集@Q_dianshiju&夸克动漫@Q_dongman",
     "order": "A18",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_tgs_api.js",
     "type": 101
@@ -164,6 +167,17 @@
     "type": 101
   },
   {
+    "name": "[盘] 123社区",
+    "version": 1,
+    "remark": "🍃豆儿出品，不属精品！内容来自网络 仅供学习测试！",
+    "env": "123资源社区_Cookie##访问网站需要的Cookie，格式：bbs_token=xxx",
+    "webSite": "https://pan1.me",
+    "codeID": "26QUSjb30vJWr1ejaey2KGkx3Aq0pRIv",
+    "order": "A20",
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_123ypzysq.txt",
+    "type": 101
+  },
+  {
     "name": "[直] 修罗",
     "version": 2,
     "webSite": "https://xl01.com.de",
@@ -172,8 +186,18 @@
     "type": 101
   },
   {
+    "name": "[直] 在线",
+    "version": 4,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://www.zxzjhd.com",
+    "codeID": "xgFE0TUb8SZsOIlZzcUkxRtewYrSozoC",
+    "order": "B",
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Zhi_zxzj.txt",
+    "type": 101
+  },
+  {
     "name": "[直] 奇优",
-    "version": 1,
+    "version": 2,
     "webSite": "http://www.qiyoudy4.com",
     "order": "B",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Zhi_qiyou.js",
@@ -187,6 +211,16 @@
     "order": "B",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Zhi_olevod.js",
     "type": 100
+  },
+  {
+    "name": "[直] 荐片",
+    "version": 2,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "jianpian",
+    "codeID": "3UXc19H0H2Dzz4vJEO4yFIGCmKXIlfoM",
+    "order": "B",
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Zhi_jianpian.txt",
+    "type": 101
   },
   {
     "name": "[直] 豆哔",
@@ -217,7 +251,8 @@
     "instance": "gzapp20241001",
     "order": "B",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Zhi_gzapp.txt",
-    "type": 100
+    "type": 100,
+    "logo": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/logo/guazi.png"
   },
   {
     "name": "[直] 瓜子²",
@@ -227,7 +262,18 @@
     "instance": "gzys20240822",
     "order": "B",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Zhi_gzys.js",
-    "type": 100
+    "type": 100,
+    "logo": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/logo/guazi2.png"
+  },
+  {
+    "name": "[直] 3Q影视",
+    "version": 1,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://qqqys.com",
+    "codeID": "D9BXZ6cn6jBL9W50ORTUU2yV4vGxYCU1",
+    "order": "B",
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Zhi_3qys.txt",
+    "type": 101
   },
   {
     "name": "[直] Emby",
@@ -238,6 +284,16 @@
     "codeID": "LAqQ8NcDuZBVF5zgN2jGwywEuz2VjPjM",
     "order": "B",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Zhi_emby.txt",
+    "type": 101
+  },
+  {
+    "name": "[直] RRSP",
+    "version": 1,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "RRSP",
+    "codeID": "G1qne3LG1JOFjFp2KM2mYgWLWak2qyDG",
+    "order": "B",
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Zhi_rrsp.txt",
     "type": 101
   },
   {
@@ -385,6 +441,15 @@
     "webSite": "https://cj.rycjapi.com/api.php/provide/vod",
     "order": "D5",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Cai_cmsUser.js",
+    "type": 101
+  },
+  {
+    "name": "[盘] 音海",
+    "version": 1,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://sou.makifx.com",
+    "codeID": "KbVx88vHdV15XvzvUxCQScqe9Ymk6wCX",
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_yinhai.txt",
     "type": 101
   }
 ]

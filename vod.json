@@ -36,11 +36,19 @@
     "logo": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/logo/labi.png"
   },
   {
-    "name": "[盘] 虎斑",
-    "version": 1,
-    "webSite": "http://103.45.162.207:20720",
+    "name": "[盘] 多多",
+    "version": 3,
+    "webSite": "https://tv.yydsys.top",
+    "order": "A04",
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_duoduo.js",
+    "type": 101
+  },
+  {
+    "name": "[盘] 欧歌",
+    "version": 3,
+    "webSite": "https://woog.nxog.eu.org",
     "order": "A05",
-    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_huban.js",
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_ouge.js",
     "type": 101
   },
   {
@@ -60,19 +68,11 @@
     "type": 101
   },
   {
-    "name": "[盘] 欧歌",
-    "version": 3,
-    "webSite": "https://woog.nxog.eu.org",
+    "name": "[盘] 虎斑",
+    "version": 1,
+    "webSite": "http://103.45.162.207:20720",
     "order": "A08",
-    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_ouge.js",
-    "type": 101
-  },
-  {
-    "name": "[盘] 多多",
-    "version": 3,
-    "webSite": "https://tv.yydsys.top",
-    "order": "A09",
-    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_duoduo.js",
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_huban.js",
     "type": 101
   },
   {
@@ -81,7 +81,7 @@
     "remark": "🍃豆儿出品，不属精品！玩偶模板站通用自适应，更换域名即可，默认小斑占位",
     "webSite": "http://xsayang.fun:12512",
     "codeID": "o1yPDSn0NzqTIM7iqs1EcTbsIU4TVDdI",
-    "order": "A10",
+    "order": "A09",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_zishiying.txt",
     "type": 101
   },
@@ -125,15 +125,14 @@
     "type": 100
   },
   {
-    "name": "[盘] 逸搜",
-    "version": 3,
-    "remark": "来自proversion2024，仅搜索",
-    "webSite": "https://www.tianyiso.com",
-    "codeID": "DU9z425w42hk9B8l",
-    "instance": "tianyiso20241129",
+    "name": "[盘] 音海",
+    "version": 1,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://sou.makifx.com",
+    "codeID": "KbVx88vHdV15XvzvUxCQScqe9Ymk6wCX",
     "order": "A16",
-    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_tianyiso.txt",
-    "type": 100
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_yinhai.txt",
+    "type": 101
   },
   {
     "name": "[盘] TG搜",
@@ -288,10 +287,10 @@
   },
   {
     "name": "[直] RRSP",
-    "version": 1,
+    "version": 2,
     "remark": "🍃豆儿出品，不属精品！",
     "webSite": "RRSP",
-    "codeID": "G1qne3LG1JOFjFp2KM2mYgWLWak2qyDG",
+    "codeID": "a2buZX6jr7AcTQppx1MTcXMQOGNZFAAF",
     "order": "B",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Zhi_rrsp.txt",
     "type": 101
@@ -302,6 +301,36 @@
     "webSite": "https://www.bttwoo.com",
     "order": "B",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Zhi_bttwoo.js",
+    "type": 101
+  },
+  {
+    "name": "[直] 山有木兮",
+    "version": 1,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://film.symx.club",
+    "codeID": "OpwROp7JEarNm4PJvnFpaiCVjAMTGa8k",
+    "order": "B",
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Zhi_symx.txt",
+    "type": 101
+  },
+  {
+    "name": "[直] 河马短剧",
+    "version": 1,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://www.kuaikaw.cn",
+    "codeID": "y1JFo0Sxs3fVwTggELeJ4U4MWLVKM1dK",
+    "order": "B",
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Zhi_hmdj.txt",
+    "type": 101
+  },
+  {
+    "name": "[直] 番茄畅听",
+    "version": 1,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "fanqie",
+    "codeID": "ck9JR5mmMu9fmULHPR1hbl0QRqmQm6M8",
+    "order": "B",
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Zhi_fqct.txt",
     "type": 101
   },
   {
@@ -353,6 +382,16 @@
     "type": 101
   },
   {
+    "name": "[直] iKanBot",
+    "version": 1,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://v.aikanbot.com",
+    "codeID": "xWEHbLCxcGGhC4tstiAXbQ5NT6FJz50X",
+    "order": "B",
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Zhi_iKanBot.txt",
+    "type": 101
+  },
+  {
     "name": "[嗅] 立播",
     "version": 1,
     "remark": "🍃豆儿出品，不属精品！",
@@ -375,6 +414,16 @@
     "webSite": "https://www.ntdm9.com",
     "order": "C",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Xiu_ntdm.js",
+    "type": 101
+  },
+  {
+    "name": "[嗅] 嗷呜动漫",
+    "version": 1,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://www.aowu.tv",
+    "codeID": "byzBjZR3q9EK3gMag6owco6rksBCyG5k",
+    "order": "C",
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Xiu_aowu.txt",
     "type": 101
   },
   {
@@ -441,15 +490,6 @@
     "webSite": "https://cj.rycjapi.com/api.php/provide/vod",
     "order": "D5",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Cai_cmsUser.js",
-    "type": 101
-  },
-  {
-    "name": "[盘] 音海",
-    "version": 1,
-    "remark": "🍃豆儿出品，不属精品！",
-    "webSite": "https://sou.makifx.com",
-    "codeID": "KbVx88vHdV15XvzvUxCQScqe9Ymk6wCX",
-    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_yinhai.txt",
     "type": 101
   }
 ]

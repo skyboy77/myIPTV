@@ -119,6 +119,22 @@
       "type": 101
     },
     {
+      "name": "319影社",
+      "version": 1,
+      "webSite": "https://www.319312.com",
+      "order": "A01",
+      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_319yingshe.js",
+      "type": 101
+    },
+    {
+      "name": "[盘] 奕搜",
+      "version": 1,
+      "webSite": "https://ysso.cc",
+      "order": "A01",
+      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_yishou.js",
+      "type": 101
+    },
+    {
       "name": "[盘] 玩偶",
       "version": 3,
       "webSite": "http://wogg.xxooo.cf",
@@ -128,11 +144,36 @@
       "logo": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/logo/wanou.png"
     },
     {
+      "name": "[盘] 人人电影",
+      "version": 1,
+      "webSite": "https://www.rrdynb.com",
+      "order": "A01",
+      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_renren.js",
+      "type": 101
+    },
+    {
       "name": "[盘] 木偶",
       "version": 6,
       "webSite": "https://666.666291.xyz",
       "order": "A02",
       "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_mogg.js",
+      "type": 101
+    },
+    {
+      "name": "[盘] 4KTop",
+      "version": 1,
+      "remark": "TG频道：https://t.me/Lsp115",
+      "webSite": "https://4ktop.com",
+      "order": "A02",
+      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_4KTop.js",
+      "type": 101
+    },
+    {
+      "name": "[盘] Revohd",
+      "version": 3,
+      "webSite": "http://www.revohd.com",
+      "order": "A02",
+      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_qingying.js",
       "type": 101
     },
     {

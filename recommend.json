@@ -1,9 +1,9 @@
 [
   {
     "name": "豆瓣推荐",
-    "version": 5,
+    "version": 6,
     "remark": "iOS14 以上版本可用",
-    "codeID": "axVxcuorTKzBGQJnmljkDTkIUQrZklrY",
+    "codeID": "eaY5aQ1H4hWPS87qEmIUYnxmIz5bfkik",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/recommend/js/douban.txt",
     "type": 200
   }

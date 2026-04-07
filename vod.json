@@ -61,12 +61,11 @@
     "type": 101
   },
   {
-    "name": "[直] LibVio",
-    "version": 3,
-    "remark": "🙀是白猫呀！！！",
+    "name": "[盘] LibVio",
+    "version": 4,
     "webSite": "https://libvio.mov/",
     "order": "A04",
-    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Zhi_libvio.js",
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_libvio.js",
     "type": 101
   },
   {

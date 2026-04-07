@@ -11,40 +11,39 @@
     },
     {
       "name": "夸克|UC|天翼|123|百度|移动|pikpak|115|解析",
-      "version": 40,
-      "remark": "夸克不转存版本，iOS 15 及以上版本可用",
-      "env": "百度网盘Cookie##用于播放百度网盘视频&&UCCookie##用于播放UC网盘视频&&UC_Token##UC网盘 Open API Token（可选，优先使用）&&夸克Cookie##用于播放Quark网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称&&123网盘账号##用于播放123网盘视频&&123网盘密码##用于播放123网盘视频&&天翼网盘账号##用于播放天翼网盘视频&&天翼网盘密码##用于播放天翼网盘视频&&115Cookie##用于播放115网盘视频&&PikPakToken##用于存储登录信息,Bearer 开头&&采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
-      "order": "A",
-      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/panTools/js/panTools3.js",
-      "type": 300
-    },
-    {
-      "name": "夸克|UC|天翼|123|百度|移动|pikpak|115|解析",
       "version": 1,
       "remark": "iOS 14 及以下版本专用",
       "env": "百度网盘Cookie##用于播放百度网盘视频&&UCCookie##用于播放UC网盘视频&&UC_Token##UC网盘 Open API Token（可选，优先使用）&&夸克Cookie##用于播放Quark网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称&&123网盘账号##用于播放123网盘视频&&123网盘密码##用于播放123网盘视频&&天翼网盘账号##用于播放天翼网盘视频&&天翼网盘密码##用于播放天翼网盘视频&&115Cookie##用于播放115网盘视频&&PikPakToken##用于存储登录信息,Bearer 开头&&采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
       "order": "B",
       "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/panTools/js/panTools2_iOS14.js",
       "type": 300
+    },
+    {
+      "name": "夸克|UC|天翼|123|百度|移动|pikpak|115|解析",
+      "version": 40,
+      "remark": "夸克不转存版本，iOS 15 及以上版本可用",
+      "env": "百度网盘Cookie##用于播放百度网盘视频&&UCCookie##用于播放UC网盘视频&&UC_Token##UC网盘 Open API Token（可选，优先使用）&&夸克Cookie##用于播放Quark网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称&&123网盘账号##用于播放123网盘视频&&123网盘密码##用于播放123网盘视频&&天翼网盘账号##用于播放天翼网盘视频&&天翼网盘密码##用于播放天翼网盘视频&&115Cookie##用于播放115网盘视频&&PikPakToken##用于存储登录信息,Bearer 开头&&采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
+      "order": "C",
+      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/panTools/js/panTools3.js",
+      "type": 300
     }
   ],
   "danMu": [
     {
       "name": "豆儿弹幕",
-      "version": 15,
+      "version": 17,
       "remark": "🍃豆儿出品，不属精品！",
       "env": "豆儿弹幕API##使用兼容弹弹Play协议的API 格式 线路名称1@地址1|线路名称2@地址2",
-      "codeID": "p3F0ksrlSjf1GN2FU4g8jYxCOyqolmCX",
+      "codeID": "H50ZiI2coZY2SEy2CEkiinjbRjTDvvvs",
       "order": "A01",
       "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/danMu/js/danMu5.txt",
       "type": 400
     },
     {
       "name": "自定义弹幕扩展",
-      "version": 21,
+      "version": 22,
       "remark": "v1.6.60 及以上版本可用",
-      "env": "自定义弹幕解析接口##格式 线路名称1@地址1|线路名称2@地址2&&自定义弹幕采集线路##格式 线路名称1@地址1|线路名称2@地址2&&自定义弹幕剧集过滤##过滤视频剧集关键词,用|分隔,填写禁用可关闭过滤功能",
-      "codeID": "7xPlMjU7WKVbDGMGkw62zHoai6jhjMim",
+      "codeID": "NdxXSowvepoE1fO2fRQh7t52ycEaCVbg",
       "order": "A02",
       "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/danMu/js/danMu4.txt",
       "type": 400
@@ -179,12 +178,11 @@
       "type": 101
     },
     {
-      "name": "[直] LibVio",
-      "version": 3,
-      "remark": "🙀是白猫呀！！！",
+      "name": "[盘] LibVio",
+      "version": 4,
       "webSite": "https://libvio.mov/",
       "order": "A04",
-      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Zhi_libvio.js",
+      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_libvio.js",
       "type": 101
     },
     {

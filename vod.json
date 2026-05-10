@@ -282,6 +282,16 @@
     "type": 100
   },
   {
+    "name": "[直] 瓜子",
+    "version": 2,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://api.w32z7vtd.com",
+    "codeID": "GsrfFOqB7JtHhaMDFHw9Xv3uHrCGSdwe",
+    "order": "B",
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Zhi_guazi.txt",
+    "type": 101
+  },
+  {
     "name": "[直] 荐片",
     "version": 2,
     "remark": "🍃豆儿出品，不属精品！",
@@ -310,29 +320,6 @@
     "order": "B",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Zhi_hjkk.js",
     "type": 100
-  },
-  {
-    "name": "[直] 瓜子¹",
-    "version": 4,
-    "remark": "瓜子APP",
-    "webSite": "http://api.gudvxty.com",
-    "codeID": "ra5Z3wtXKshzSMK2",
-    "instance": "gzapp20241001",
-    "order": "B",
-    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Zhi_gzapp.txt",
-    "type": 100,
-    "logo": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/logo/guazi.png"
-  },
-  {
-    "name": "[直] 瓜子²",
-    "version": 4,
-    "remark": "瓜子WEB",
-    "webSite": "http://api.gudvxty.com",
-    "instance": "gzys20240822",
-    "order": "B",
-    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Zhi_gzys.js",
-    "type": 100,
-    "logo": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/logo/guazi2.png"
   },
   {
     "name": "[直] 3Q影视",

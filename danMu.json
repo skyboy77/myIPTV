@@ -8,14 +8,5 @@
     "order": "A01",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/danMu/js/danMu5.txt",
     "type": 400
-  },
-  {
-    "name": "自定义弹幕扩展",
-    "version": 22,
-    "remark": "v1.6.60 及以上版本可用",
-    "codeID": "NdxXSowvepoE1fO2fRQh7t52ycEaCVbg",
-    "order": "A02",
-    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/danMu/js/danMu4.txt",
-    "type": 400
   }
 ]

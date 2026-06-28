@@ -293,10 +293,10 @@
   },
   {
     "name": "[直] 荐片",
-    "version": 2,
+    "version": 3,
     "remark": "🍃豆儿出品，不属精品！",
     "webSite": "jianpian",
-    "codeID": "3UXc19H0H2Dzz4vJEO4yFIGCmKXIlfoM",
+    "codeID": "MDKJ5hsoDs1G3zDmC2dlaGcQqKLUmevP",
     "order": "B",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Zhi_jianpian.txt",
     "type": 101
